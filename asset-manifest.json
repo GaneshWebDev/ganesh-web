@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ganesh-web/static/css/main.7dea973d.css",
-    "main.js": "/ganesh-web/static/js/main.7c64fd66.js",
+    "main.css": "/ganesh-web/static/css/main.7f363617.css",
+    "main.js": "/ganesh-web/static/js/main.6b20d372.js",
     "static/js/787.28cb0dcd.chunk.js": "/ganesh-web/static/js/787.28cb0dcd.chunk.js",
     "static/media/css3.png": "/ganesh-web/static/media/css3.5d1e9b1f4ab7f72ce7bc.png",
     "static/media/Html.png": "/ganesh-web/static/media/Html.edb334b841dbb79cce57.png",
@@ -9,12 +9,12 @@
     "static/media/java-script.png": "/ganesh-web/static/media/java-script.9804abf8ccdd5dcfe5b9.png",
     "static/media/mongodb.png": "/ganesh-web/static/media/mongodb.4d1763a20af23f3dbc1d.png",
     "index.html": "/ganesh-web/index.html",
-    "main.7dea973d.css.map": "/ganesh-web/static/css/main.7dea973d.css.map",
-    "main.7c64fd66.js.map": "/ganesh-web/static/js/main.7c64fd66.js.map",
+    "main.7f363617.css.map": "/ganesh-web/static/css/main.7f363617.css.map",
+    "main.6b20d372.js.map": "/ganesh-web/static/js/main.6b20d372.js.map",
     "787.28cb0dcd.chunk.js.map": "/ganesh-web/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dea973d.css",
-    "static/js/main.7c64fd66.js"
+    "static/css/main.7f363617.css",
+    "static/js/main.6b20d372.js"
   ]
 }
